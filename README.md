@@ -1,4 +1,4 @@
-# Language Modeling and Slot Filling
+# Language Modeling and Joint Intent Classification and Slot Filling
 
 Project for the **Natural Language Understanding** course at the University of Trento. It has two parts, each split into two assignments:
 
